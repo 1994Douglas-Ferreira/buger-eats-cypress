@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Douglas Ferreira",
+        "cpf": "00000014141",
+        "email": "douglas@gmail.com",
+        "whatsapp": "11912345678",
+        "address": {
+            "postalCode": "06816340",
+            "street": "Rua da Concórdia",
+            "addressNumber": "556",
+            "addressDetails": "casa 4",
+            "district": "Jardim Nossa Senhora de Fátima",
+            "cityUf": "Embu das Artes/SP"
+        },
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpfInva": {
+        "name": "Anderson Gomes",
+        "cpf": "000000141AA",
+        "email": "anderson@gmail.com",
+        "whatsapp": "11912345678",
+        "address": {
+            "postalCode": "06816340",
+            "street": "Rua da Concórdia",
+            "addressNumber": "556",
+            "addressDetails": "casa 4",
+            "district": "Jardim Nossa Senhora de Fátima",
+            "cityUf": "Embu das Artes/SP"
+        },
+        "deliveryMethod": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "emailInva": {
+        "name": "Andressa de Brito",
+        "cpf": "00000014141",
+        "email": "Andressa.gmail.com",
+        "whatsapp": "11912345678",
+        "address": {
+            "postalCode": "06816340",
+            "street": "Rua da Concórdia",
+            "addressNumber": "556",
+            "addressDetails": "casa 4",
+            "district": "Jardim Nossa Senhora de Fátima",
+            "cityUf": "Embu das Artes/SP"
+        },
+        "deliveryMethod": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    }
+}
